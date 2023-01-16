@@ -1,0 +1,8 @@
+
+numpy==1.23.2
+openai==0.26.0
+PyAudio==0.2.13
+pycparser==2.21
+pydub==0.25.1
+pyttsx3==2.90
+SpeechRecognition==3.9.0
